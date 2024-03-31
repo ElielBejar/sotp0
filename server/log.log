@@ -1,0 +1,21 @@
+
+[INFO] 17:20:07:763 Servidor/(10427:10427): Servidor listo para recibir al cliente
+[INFO] 17:21:46:683 Servidor/(10913:10913): Servidor listo para recibir al cliente
+[INFO] 17:29:11:528 Servidor/(11421:11421): Servidor listo para recibir al cliente
+[INFO] 17:53:45:256 Servidor/(12773:12773): Servidor listo para recibir al cliente
+[INFO] 17:54:16:517 Servidor/(12948:12948): Servidor listo para recibir al cliente
+[INFO] 18:15:44:113 Servidor/(13970:13970): Servidor listo para recibir al cliente
+[INFO] 18:16:00:591 Servidor/(13970:13970): Se conecto un cliente!
+[INFO] 18:16:00:592 Servidor/(13970:13970): Me llego el mensaje valor
+[INFO] 18:16:12:676 Servidor/(13970:13970): Me llegaron los siguientes valores:
+
+[INFO] 18:16:12:676 Servidor/(13970:13970): Este es un mensaje
+[ERROR] 18:16:12:676 Servidor/(13970:13970): el cliente se desconecto. Terminando servidor
+[INFO] 18:18:56:038 Servidor/(14400:14400): Servidor listo para recibir al cliente
+[INFO] 18:19:11:050 Servidor/(14400:14400): Se conecto un cliente!
+[INFO] 18:19:11:051 Servidor/(14400:14400): Me llego el mensaje valor
+[INFO] 18:19:27:241 Servidor/(14400:14400): Me llegaron los siguientes valores:
+
+[INFO] 18:19:27:241 Servidor/(14400:14400): mensaje 1 en el paquete
+[INFO] 18:19:27:241 Servidor/(14400:14400): mensaje uno en el paquete
+[ERROR] 18:19:27:241 Servidor/(14400:14400): el cliente se desconecto. Terminando servidor
